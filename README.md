@@ -13,4 +13,5 @@ And hey, some Xcode themes!
 
 **Specials Board** - Based on Coda's Specials Board theme.  
 **Jatsby** - Based on the Jatsby Web Framework's color palette.  
- *More themes to come in future releases!*
+  
+*More themes to come in future releases!*
