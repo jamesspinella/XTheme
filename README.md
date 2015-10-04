@@ -5,7 +5,9 @@ A Sketch template for quickly and easily designing new themes for Xcode.
 
 Adjust fonts and colors and immediately see each change in sample code so you'll know how your color and font combinations actually look in the wild.
   
-NOTE: Xcode Theme colors are in RGBA Decimal format, and often go to as many as six (6) decimal places. It's best to paste in color codes from Sketch into Xcode's Colors & Fonts when editing and creating themes, rather than pasting in values directly to .dvtcolortheme (Xcode theme) files.  
+NOTE: Xcode Theme colors are in RGBA Decimal format, and often go to as many as six (6) decimal places. It's best to paste in color codes from Sketch into Xcode's Colors & Fonts when editing and creating themes, rather than pasting in values directly to .dvtcolortheme (Xcode theme) files.   
+  
+All of this was made with Xcode 7.0.1, but should work as far back as Xcode 5 (?).
   
   
 And hey, some Xcode themes!
