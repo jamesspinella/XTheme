@@ -1,4 +1,4 @@
-# XTheme
+# Xtheme
 
 A Sketch template for quickly and easily designing new themes for Xcode.
 --------------------------------------------------------------------------
